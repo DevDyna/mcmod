@@ -1,0 +1,11 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+issueTrackerURL=""
+license=""
+[[mods]]
+    modId="modid"
+    version="1.0"
+    displayName="name"
+    description="desc"
+	authors="author"
+	logoFile="pack.png"
